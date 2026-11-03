@@ -288,3 +288,4 @@ Planned topics:
 **---**
 
 *\*Day 4 complete: Arrays and Objects practiced through structured product data and a menu-driven Product Management system.\**
+
