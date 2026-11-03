@@ -151,3 +151,140 @@ Planned topics:
 ---
 
 *Day 2 complete: Control flow concepts practiced through conditional logic, loops, runtime input, and practical programs.*
+
+**# Day 3 — Functions**
+
+**\*\*Focus:\*\*** Functions, parameters, return values, and reusable logic.
+
+**### Topics Covered**
+
+\- [x] **\*\*Function Basics\*\***
+
+&#x20; \- Function declaration and function calling
+&#x20; \- Understanding reusable blocks of code
+&#x20; \- Executing functions when needed
+
+\- [x] **\*\*Parameters and Arguments\*\***
+
+&#x20; \- Passing values into functions
+&#x20; \- Understanding parameters vs arguments
+&#x20; \- Working with multiple parameters
+
+\- [x] **\*\*Return Values\*\***
+
+&#x20; \- Returning results using `return`
+&#x20; \- Storing returned values in variables
+&#x20; \- Returning objects from functions
+
+\- [x] **\*\*Practical Functions\*\***
+
+&#x20; \- Building an order calculator using functions
+&#x20; \- Calculating subtotal, discount, and final total
+&#x20; \- Creating a calculator using `switch` statements
+&#x20; \- Handling division by zero
+
+\- [x] **\*\*Runtime Input with Node.js\*\***
+
+&#x20; \- Receiving input using `readline`
+&#x20; \- Passing user input into functions
+&#x20; \- Converting input strings into numbers
+&#x20; \- Using callback functions with `rl.question()`
+
+**### Practical Files**
+
+\- `03-functions/01-function-basics.js`
+\- `03-functions/02-parameters-return.js`
+\- `03-functions/03-calculator.js`
+
+**### Important Lessons**
+
+\- Functions help organize code into reusable blocks.
+\- Parameters allow functions to receive different values.
+\- Arguments are the actual values passed when calling a function.
+\- `return` sends a result back to the caller and terminates the function execution.
+\- Functions can return objects containing multiple calculated values.
+\- Runtime input can be processed and passed into functions.
+
+**### Next Session**
+
+**\*\*Arrays and Objects\*\***
+
+Planned topics:
+
+\- Creating and accessing arrays
+\- Understanding array indexes
+\- Creating and accessing object properties
+\- Storing objects inside arrays
+\- Adding and deleting objects from arrays
+\- Building a practical Product Management system
+
+**---**
+
+*\*Day 3 complete: Functions practiced through reusable logic, calculations, return values, and runtime input.\**
+
+
+**# Day 4 — Arrays and Objects**
+
+**\*\*Focus:\*\*** Arrays, objects, and managing structured data.
+
+**### Topics Covered**
+
+\- [x] **\*\*Arrays\*\***
+
+&#x20; \- Creating arrays
+&#x20; \- Storing multiple values in a single variable
+&#x20; \- Accessing and working with array elements
+&#x20; \- Adding objects to an existing array using `push()`
+
+\- [x] **\*\*Objects\*\***
+
+&#x20; \- Creating objects using object literals
+&#x20; \- Understanding key-value pairs
+&#x20; \- Working with properties such as SKU, Title, category, MRP, price, and inventory
+&#x20; \- Storing multiple objects inside an array
+
+\- [x] **\*\*Array of Objects\*\***
+
+&#x20; \- Managing structured product data
+&#x20; \- Displaying product information using `console.table()`
+&#x20; \- Adding new product objects dynamically
+&#x20; \- Deleting products using `filter()`
+
+\- [x] **\*\*Practical Application\*\***
+
+&#x20; \- Building a Jewellery Product Management system
+&#x20; \- Creating a menu-driven program
+&#x20; \- Implementing View Product, Add Product, and Delete Product
+&#x20; \- Using functions to organize different operations
+&#x20; \- Handling user input through Node.js `readline`
+
+**### Practical Files**
+
+\- `04-array-object/01-inventory-manager.js`
+
+**### Important Lessons**
+
+\- Arrays can store multiple values and objects.
+\- Objects represent structured data through key-value pairs.
+\- Array indexes start from 0.
+\- `push()` adds a new element to the end of an array.
+\- `filter()` creates a new array based on a condition.
+\- Functions can organize array and object operations into separate tasks.
+\- Practical applications help combine previously learned concepts.
+
+**### Next Session**
+
+**\*\*Strings and String Methods\*\***
+
+Planned topics:
+
+\- Creating and accessing strings
+\- String properties and methods
+\- Searching within strings
+\- Extracting parts of strings
+\- Modifying and transforming strings
+\- Practical string manipulation
+
+**---**
+
+*\*Day 4 complete: Arrays and Objects practiced through structured product data and a menu-driven Product Management system.\**
