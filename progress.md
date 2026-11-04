@@ -289,3 +289,71 @@ Planned topics:
 
 *\*Day 4 complete: Arrays and Objects practiced through structured product data and a menu-driven Product Management system.\**
 
+**# Day 5 — Map, Filter, and Find**
+
+**\*\*Focus:\*\*** Array methods for transforming, filtering, and searching data.
+
+**### Topics Covered**
+
+\- [x] **\*\*map() Method\*\***
+
+&#x20; \- Understanding the purpose of `map()`
+&#x20; \- Transforming every element of an array
+&#x20; \- Creating a new array from the returned values
+&#x20; \- Understanding that the original array remains unchanged
+&#x20; \- Using arrow functions as callback functions
+
+\- [x] **\*\*filter() Method\*\***
+
+&#x20; \- Understanding the purpose of `filter()`
+&#x20; \- Filtering elements based on a condition
+&#x20; \- Returning a new array containing matching elements
+&#x20; \- Understanding Boolean conditions inside callbacks
+&#x20; \- Working with arrays of objects
+
+\- [x] **\*\*find() Method\*\***
+
+&#x20; \- Understanding the purpose of `find()`
+&#x20; \- Searching for an element based on a condition
+&#x20; \- Returning the first matching element
+&#x20; \- Understanding the difference between returning an object and an array
+&#x20; \- Understanding `undefined` when no match is found
+
+\- [x] **\*\*Comparison of Array Methods\*\***
+
+&#x20; \- Understanding the difference between `map()`, `filter()`, and `find()`
+&#x20; \- Identifying when to transform, filter, or search array elements
+&#x20; \- Understanding how callback functions are used in array methods
+
+**### Practical Files**
+
+\- `05-map-filter-find/01-map.js`
+\- `05-map-filter-find/02-filter.js`
+\- `05-map-filter-find/03-find.js`
+
+**### Important Lessons**
+
+\- `map()` transforms every element and returns a new array.
+\- `filter()` returns a new array containing elements that satisfy a condition.
+\- `find()` returns the first element that satisfies a condition.
+\- `map()` and `filter()` return arrays, whereas `find()` returns a single element or `undefined`.
+\- These methods do not directly modify the original array.
+\- Callback functions allow custom logic to be executed for each element during array operations.
+\- `const` prevents reassignment of a variable but does not prevent modification of array contents.
+
+**### Next Session**
+
+**\*\*More Array Methods\*\***
+
+Planned topics:
+
+\- `forEach()`
+\- `some()`
+\- `every()`
+\- `reduce()`
+\- Understanding when and why to use each method
+\- Practical exercises using arrays of objects
+
+**---**
+
+*\*Day 5 complete: Array methods practiced through transformation, filtering, and searching structured data.\**
